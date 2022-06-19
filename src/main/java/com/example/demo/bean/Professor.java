@@ -35,4 +35,6 @@ public class Professor {
     String card;
     //
     String test;
+    //hotfix测试
+    String hotFix;
 }
