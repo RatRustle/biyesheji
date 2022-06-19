@@ -33,4 +33,6 @@ public class Professor {
     String label;
     //名片
     String card;
+    //
+    String test;
 }
